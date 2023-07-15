@@ -36,7 +36,7 @@ Make sure these packages are installed. If they are not installed, you can insta
 8. Visualization of Results: Visualize the trading transactions and the resulting profit/loss to evaluate the performance of the strategy.
 
 ## File Structure
-* MeanReversion.ipynb: This is the main application file of the project. This file follows the mentioned steps to implement the strategy and display the results.
+* main.ipynb: This is the main application file of the project. This file follows the mentioned steps to implement the strategy and display the results.
 * README.md: This file contains the description of the project and instructions for usage.
 
 ### Note
